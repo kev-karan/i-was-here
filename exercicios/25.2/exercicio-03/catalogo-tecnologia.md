@@ -31,6 +31,8 @@
 
 - Python - exemplo
 - JavaScript - exemplo
+
+
 - Julia (EXISTE SIM ESSA LINGUAGEM DE PROGRAMAÇÃO) - @juliatenoriocalado
 
 ## Empresas do ecossistema (Recife / Porto Digital)
