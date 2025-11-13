@@ -41,6 +41,7 @@
 
 - CESAR - exemplo
 - CESAR School - exemplo
+- Avanade
 
 ---
 
