@@ -35,7 +35,8 @@
 - C++ - @jffn-web
 - C - @beatrizloyola
 
----
+
+- Julia (EXISTE SIM ESSA LINGUAGEM DE PROGRAMAÇÃO) - @juliatenoriocalado
 
 ## Empresas do ecossistema (Recife / Porto Digital)
 
