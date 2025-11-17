@@ -32,6 +32,7 @@
 
 - Python - exemplo
 - JavaScript - exemplo
+- PHP (orientada à objetos) - @RiosGabri
 - Go - @phpedruo
 - Assembly (Linguagem de programação de maior nível existente kk) - @pedrovcb
 - c++ - @joaomafraa
